@@ -1,0 +1,15 @@
+{
+  "name": "clickblog",
+  "version": "1.0.0",
+  "description": "A self-hosted, login-protected blog CMS with built-in ad/affiliate slots.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  }
+}
